@@ -8,7 +8,7 @@
 wanna be like tomnomnom
 
 ### 🔗 Connect with Me
-- 📷 Instagram: [busy.shades](https://www.instagram.com/andknwonmaly)
+- 📷 Instagram: [andknwonmaly](https://www.instagram.com/andknwonmaly)
 - 🌐 Portfolio: [coming soon](https://)  
 - 💼 LinkedIn : [coming soon](https://linkedin.com/in/dword32bit)  
 - 🐦 Medium  : [dword32bit](https://dword32bit.medium.com)
