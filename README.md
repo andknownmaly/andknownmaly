@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dword32bit&label=Profile%20views&color=blueviolet&style=flat" alt="andknownmaly" /> 
+</p>
 
-<!--
-**andknownmaly/andknownmaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+wanna be like tomnomnom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+- 📷 Instagram: [busy.shades](https://www.instagram.com/andknwonmaly)
+- 🌐 Portfolio: [coming soon](https://)  
+- 💼 LinkedIn : [coming soon](https://linkedin.com/in/dword32bit)  
+- 🐦 Medium  : [dword32bit](https://dword32bit.medium.com)
