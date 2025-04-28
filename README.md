@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy
+# Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy / andknownmaly
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dword32bit&label=Profile%20views&color=blueviolet&style=flat" alt="andknownmaly" /> 
 </p>
