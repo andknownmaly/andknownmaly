@@ -5,7 +5,7 @@
 
 ---
 
-wanna be like tomnomnom
+## Just And Known Maly
 
 ### 🔗 Connect with Me
 - 📷 Instagram: [andknwonmaly](https://www.instagram.com/andknwonmaly)
