@@ -9,6 +9,6 @@
 
 ### 🔗 Connect with Me
 - 📷 Instagram: [andknwonmaly](https://www.instagram.com/andknwonmaly)
-- 🌐 Portfolio: [coming soon](https://)  
+- 🌐 Portfolio: [andknownmaly](https://andknownmaly.github.io)  
 - 💼 LinkedIn : [coming soon](https://linkedin.com/in/dword32bit)  
 - 🐦 Medium  : [dword32bit](https://dword32bit.medium.com)
