@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Andknownmaly / dword32bit
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dword32bit&label=Profile%20views&color=blueviolet&style=flat" alt="andknownmaly" /> 
+  <img src="https://komarev.com/ghpvc/?username=andknownmaly&label=Profile%20views&color=blueviolet&style=flat" alt="andknownmaly" /> 
 </p>
 
 ---
