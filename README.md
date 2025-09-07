@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Andknownmaly / dword32bit
+# Hi there! 👋 I'm Andknownmaly
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=andknownmaly&label=Profile%20views&color=blueviolet&style=flat" alt="andknownmaly" /> 
 </p>
