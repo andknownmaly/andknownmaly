@@ -10,5 +10,5 @@
 ### 🔗 Connect with Me
 - 📷 Instagram: [andknwonmaly](https://www.instagram.com/andknwonmaly)
 - 🌐 Portfolio: [andknownmaly](https://andknownmaly.github.io)  
-- 💼 LinkedIn : [coming soon](https://linkedin.com/in/dword32bit)  
+- 💼 LinkedIn : [Danang Tri Atmaja](https://www.linkedin.com/in/danang-tri-atmaja-andknownmaly)  
 - 🐦 Medium  : [dword32bit](https://dword32bit.medium.com)
