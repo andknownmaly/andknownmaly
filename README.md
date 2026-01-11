@@ -8,7 +8,7 @@
 ## Just And Known Maly
 
 ### 🔗 Connect with Me
-- 📷 Instagram: [andknwonmaly](https://www.instagram.com/andknwonmaly)
+- 📷 Instagram: [andknowmaly](https://www.instagram.com/andknownmaly)
 - 🌐 Portfolio: [andknownmaly](https://andknownmaly.github.io)  
 - 💼 LinkedIn : [Danang Tri Atmaja](https://www.linkedin.com/in/danang-tri-atmaja-andknownmaly)  
 - 🐦 Medium  : [dword32bit](https://dword32bit.medium.com)
