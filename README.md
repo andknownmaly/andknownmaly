@@ -1,13 +1,36 @@
-# Hi there! 👋 I'm Andknownmaly
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=andknownmaly&label=Profile%20views&color=blueviolet&style=flat" alt="andknownmaly" /> 
-</p>
+# 👋 Hello, I'm Andknownmaly
+```
+            ( •_•)
+            <)   )╯  "I understand this."
+             /   \
+
+                              ( •_•)
+                              <)   )╯  "I don't understand this."
+                               /   \
+                                      
+                                              ( •_•)
+                                              <)   )╯  "I kinda understand this."
+                                               /   \
+
+```
+```yaml
+> *“Learning security is not about looking smart,  
+> it’s about avoiding looking dumb.”*  
+> — me, after 3 hours of debugging a typo
+```
+---
+
+## About Me
+```txt
+Nama        : Dan
+Role        : Cyber Security Student
+Spesialis   : Learn > Fail > Learn Again
+Status      : Human (not a firewall yet)
+```
 
 ---
 
-## Just And Known Maly
-
-### 🔗 Connect with Me
+### Connect with Me
 - 📷 Instagram: [andknowmaly](https://www.instagram.com/andknownmaly)
 - 🌐 Portfolio: [andknownmaly](https://andknownmaly.github.io)  
 - 💼 LinkedIn : [Danang Tri Atmaja](https://www.linkedin.com/in/danang-tri-atmaja-andknownmaly)  
