@@ -22,9 +22,9 @@
 
 ## About Me
 ```txt
-Nama        : Dan
-Role        : Cyber Security Student
-Spesialis   : Learn > Fail > Learn Again
+Name        : Dan
+Role        : Cyber Security Enthusiast
+Skill       : Learn > Fail > Learn Again
 Status      : Human (not a firewall yet)
 ```
 
