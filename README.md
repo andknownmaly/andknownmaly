@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Andknownmaly
+# Hello, I'm Andknownmaly
 ```
             ( •_•)
             <)   )╯  "I understand this."
@@ -24,14 +24,14 @@
 ```txt
 Name        : Dan
 Role        : Cyber Security Enthusiast
-Skill       : Learn > Fail > Learn Again
+Skill       : Learn > Fail > Stress > Learn Again
 Status      : Human (not a firewall yet)
 ```
 
 ---
 
 ### Connect with Me
-- 📷 Instagram: [andknowmaly](https://www.instagram.com/andknownmaly)
-- 🌐 Portfolio: [andknownmaly](https://andknownmaly.github.io)  
-- 💼 LinkedIn : [Danang Tri Atmaja](https://www.linkedin.com/in/danang-tri-atmaja-andknownmaly)  
-- 🐦 Medium  : [dword32bit](https://dword32bit.medium.com)
+- Instagram: [andknowmaly](https://www.instagram.com/andknownmaly)
+- Portfolio: [andknownmaly](https://andknownmaly.github.io)  
+- LinkedIn : [Danang Tri Atmaja](https://www.linkedin.com/in/danang-tri-atmaja-andknownmaly)  
+- Medium  : [dword32bit](https://dword32bit.medium.com)
