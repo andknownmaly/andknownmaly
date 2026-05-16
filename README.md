@@ -23,7 +23,7 @@
 ## About Me
 ```txt
 Name        : Dan
-Role        : Cyber Security Enthusiast
+Role        : Penetration Tester
 Skill       : Learn > Fail > Stress > Learn Again
 Status      : Human (not a firewall yet)
 ```
