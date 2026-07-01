@@ -15,7 +15,7 @@
 ```
 ```yaml
 > *“Learning security is not about looking smart,  
-> it’s about avoiding looking dumb.”*  
+> it’s about avoiding looking dumb, but actually looking dumb :D”*  
 > — me, after 3 hours of debugging a typo
 ```
 ---
