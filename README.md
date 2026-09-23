@@ -24,7 +24,7 @@
 ```txt
 Name        : Dan
 Role        : Penetration Tester
-Skill       : Learn > Fail > Stress > Learn Again
+Skill       : Learn > Fail > Mentally Unstable > Learn Again
 Status      : Human (not a firewall yet)
 ```
 
